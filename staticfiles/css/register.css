@@ -1,0 +1,23 @@
+body {
+        background-color: #9de1ac;
+      }
+.form-label {
+        font-weight: 500;
+      }
+.card {
+        border: none;
+      }
+.btn-primary {
+        background-color: #28a745;
+        border: none;
+      }
+.btn-primary:hover {
+        background-color: #218838;
+      }
+a {
+        color: #28a745;
+      }
+a:hover {
+        color: #218838;
+        text-decoration: underline;
+      }
